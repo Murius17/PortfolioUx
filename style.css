@@ -87,7 +87,7 @@ section .title::after {
     bottom: -8px;
     left: 50%;
     font-size: 20px;
-    color: crimson;
+    color: #cd45ef;
     padding: 0 5px;
     background: #fff;
     transform: translateX(-50%);
@@ -107,7 +107,7 @@ section .title::after {
 
 .navbar.sticky {
     padding: 15px 0;
-    background: crimson;
+    background: #cd45efc7;
 }
 
 .navbar .max-width {
@@ -123,7 +123,7 @@ section .title::after {
 }
 
 .navbar .logo .hire span {
-    color: crimson;
+    color: #cd45ef;
     transition: all 0.3s ease;
 }
 
@@ -146,7 +146,7 @@ section .title::after {
 }
 
 .navbar .menu li .hire:hover {
-    color: crimson;
+    color: #cd45ef;
 }
 
 .navbar.sticky .menu li a:hover {
@@ -167,7 +167,7 @@ section .title::after {
     position: fixed;
     height: 45px;
     width: 42px;
-    background: crimson;
+    background: #cd45ef;
     right: 30px;
     bottom: 10px;
     text-align: center;
@@ -228,25 +228,25 @@ section .title::after {
 }
 
 .home .home-content .text-3 span {
-    color: crimson;
+    color: #cd45ef;
     font-weight: 500;
 }
 
 .home .home-content .hire {
     display: inline-block;
-    background: crimson;
+    background: #cd45ef;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     font-weight: 400;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid #cd45ef;
     transition: all 0.3s ease;
 }
 
 .home .home-content .hire:hover {
-    color: crimson;
+    color: #cd45ef;
     background: none;
 }
 
@@ -279,7 +279,7 @@ section .title::after {
 }
 
 .about .about-content .right .text span {
-    color: crimson;
+    color: #cd45ef;
 }
 
 .about .about-content .right p {
@@ -288,19 +288,19 @@ section .title::after {
 
 .about .about-content .right a {
     display: inline-block;
-    background: crimson;
+    background: #cd45ef;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid #cd45ef;
     transition: all 0.3s ease;
 }
 
 .about .about-content .right a:hover {
-    color: crimson;
+    color: #cd45ef;
     background: none;
 }
 
@@ -335,7 +335,7 @@ section .title::after {
 }
 
 .services .serv-content .card:hover {
-    background: crimson;
+    background: #cd45ef;
 }
 
 .services .serv-content .card .box {
@@ -348,7 +348,7 @@ section .title::after {
 
 .services .serv-content .card i {
     font-size: 50px;
-    color: crimson;
+    color: #cd45ef;
     transition: color 0.3s ease;
 }
 
@@ -385,19 +385,19 @@ section .title::after {
 
 .skills .skills-content .left a {
     display: inline-block;
-    background: crimson;
+    background: #cd45ef;
     color: #fff;
     font-size: 18px;
     font-weight: 500;
     padding: 8px 16px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid crimson;
+    border: 2px solid #cd45ef;
     transition: all 0.3s ease;
 }
 
 .skills .skills-content .left a:hover {
-    color: crimson;
+    color: #cd45ef;
     background: none;
 }
 
@@ -430,7 +430,7 @@ section .title::after {
     height: 100%;
     left: 0;
     top: 0;
-    background: crimson;
+    background: #cd45ef;
 }
 
 .skills-content .right .html::before {
@@ -481,7 +481,7 @@ section .title::after {
 }
 
 .teams .carousel .card:hover {
-    background: crimson;
+    background: #cd45ef;
 }
 
 .teams .carousel .card .box {
@@ -507,7 +507,7 @@ section .title::after {
     width: 150px;
     object-fit: cover;
     border-radius: 50%;
-    border: 5px solid crimson;
+    border: 5px solid #cd45ef;
     transition: all 0.3s ease;
 }
 
@@ -526,7 +526,7 @@ section .title::after {
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid crimson!important;
+    border: 2px solid #cd45ef!important;
     transition: all 0.3s ease;
 }
 
@@ -537,7 +537,7 @@ section .title::after {
 
 .owl-dot.active,
 .owl-dot:hover {
-    background: crimson!important;
+    background: #cd45ef!important;
 }
 
 
@@ -577,7 +577,7 @@ section .title::after {
 
 .contact .contact-content .row i {
     font-size: 25px;
-    color: crimson;
+    color: #cd45ef;
 }
 
 .contact .contact-content .info .head {
@@ -643,8 +643,8 @@ section .title::after {
 .contact .right form .button button {
     width: 100%;
     height: 100%;
-    border: 2px solid crimson;
-    background: crimson;
+    border: 2px solid #cd45ef;
+    background: #cd45ef;
     color: #fff;
     outline: none;
     font-size: 20px;
@@ -655,7 +655,7 @@ section .title::after {
 }
 
 .contact .right form .button button:hover {
-    color: crimson;
+    color: #cd45ef;
     background: none;
 }
 
@@ -670,7 +670,7 @@ footer {
 }
 
 footer span a {
-    color: crimson;
+    color: #cd45ef;
     text-decoration: none;
 }
 
